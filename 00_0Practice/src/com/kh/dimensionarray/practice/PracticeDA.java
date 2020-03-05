@@ -60,7 +60,7 @@ public class PracticeDA {
 				System.out.printf("%4d", arr[i][j]);
 			}
 			System.out.println();
-
+			System.out.println();
 		}
 	}
 }
