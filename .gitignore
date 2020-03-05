@@ -21,3 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.project
+00_0Practice/bin/.gitignore
+00_myFirstProject/bin/.gitignore
+01_Variable/bin/.gitignore
+02_Operator/bin/.gitignore
+03_Control/bin/.gitignore
+04_Array/bin/.gitignore
+05_DimensionalArray/bin/.gitignore
+06_Object/bin/.gitignore
+javaTest1_신정현/bin/.gitignore
+Project_Array/bin/.gitignore
